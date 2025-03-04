@@ -8,6 +8,8 @@ Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na F
 💡 Busco oportunidades para aplicar e aprimorar meus conhecimentos em desenvolvimento de software.
 </p>
 
+</p>
+</p>
 
 <div>
   <img height ="180em" src= "https://github-readme-stats.vercel.app/api?username=julianahaddad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,10 +25,6 @@ Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na F
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-- 🌱 I’m currently learning ...
-
-
 
 <div> 
   <a href="https://www.linkedin.com/in/haddadj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
