@@ -1,13 +1,16 @@
 <h1>✨ Oi, eu sou a Juliana Haddad  </h1>
 
-<p style="font-size:18px">
+<p style="font-size:22px">
 Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC. Tenho experiência com <strong>Java, C#, .NET, Spring Boot, Node.js, MySQL e MongoDB</strong>, além de trabalhar com <strong>Power Platform e Dynamics 365 CRM</strong>.
 </p>
 
-<p style="font-size:18px">
+<p style="font-size:22px">
 💡💻 Busco oportunidades para aplicar e aprimorar meus conhecimentos em desenvolvimento de software.
 </p>
 
+<p style="font-size:22px">
+Este repositório do GitHub serve como um espaço onde compartilho projetos E experiências de aprendizado ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
+</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/haddadj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
