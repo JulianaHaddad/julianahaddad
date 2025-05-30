@@ -1,4 +1,4 @@
-<h1>✨ Oi, eu sou a Juliana Haddad  </h1>
+<h1>✨Hi, I am Juliana Haddad  </h1>
 
 <p style="font-size:22px">
 Associate Technical Consultant Intern at Salesforce LATAM (Customer Success Group)
