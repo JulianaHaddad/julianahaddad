@@ -1,7 +1,9 @@
 <h1>✨ Oi, eu sou a Juliana Haddad  </h1>
 
 <p style="font-size:22px">
-[I'm currently pursuing a degree in Systems Analysis and Development at FATEC and am part of the Customer Success Group (CSG) team in LATAM. My core skills include back-end development with Java and Spring Boot, API integration, version control with Git and GitHub, and the use of containers with Docker. I also have experience with both SQL and NoSQL databases, Excel, and building dashboards in Power BI. At the moment, I’m focused on expanding my knowledge within the Salesforce ecosystem, always striving to grow and explore new areas in the technology field.](https://github.com/JulianaHaddad)
+Associate Technical Consultant Intern at Salesforce LATAM (Customer Success Group)
+Currently pursuing a degree in Systems Analysis and Development at FATEC-SP, I am in the early stages of my professional journey in technology. I have foundational experience in back-end development using Java and Spring Boot, API integration, version control with Git/GitHub, and containerization with Docker. I also work with SQL/NoSQL databases and have basic skills in data visualization with Excel and Power BI.
+At Salesforce, I’m part of the Customer Success Group (CSG), where I’m learning about the technical foundations of CRM solutions and how they support enterprise clients. I’m actively studying the Salesforce platform through Trailhead and preparing for certifications, while gradually developing my understanding of how technology can support business processes.
 </p>
 
 
